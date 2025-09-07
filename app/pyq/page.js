@@ -213,7 +213,7 @@ const PYQSection = () => {
           <div className="text-center">
             <h3 className="text-2xl font-bold text-white mb-4">Need Help Finding Papers?</h3>
             <p className="text-slate-300 mb-6 max-w-2xl mx-auto">
-              Can't find the specific question paper you're looking for? Our team is here to help you locate 
+              Can&apos;t find the specific question paper you&apos;re looking for? Our team is here to help you locate 
               the exact papers you need for your exam preparation.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
