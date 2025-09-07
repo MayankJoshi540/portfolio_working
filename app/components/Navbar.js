@@ -24,7 +24,7 @@ const Navbar = () => {
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center">
             <Link href="/" className="text-xl lg:text-2xl font-bold bg-gradient-to-r from-emerald-600 to-cyan-600 bg-clip-text text-transparent hover:from-emerald-700 hover:to-cyan-700 transition-all duration-300">
-              Mr Santosh Kumar Joshi
+              PrepZone
             </Link>
           </div>
 
