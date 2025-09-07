@@ -59,7 +59,7 @@ const Footer = () => {
           <div className="space-y-6">
             <div>
               <Link href="/" className="text-2xl font-bold bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent">
-                Mr Santosh Kumar Joshi
+                PrepZone
               </Link>
               <p className="text-slate-400 mt-3 leading-relaxed">
                 Your trusted source for CBSE and Uttarakhand Board previous year question papers. 
@@ -226,7 +226,7 @@ const Footer = () => {
             
             {/* Copyright */}
             <div className="text-slate-400 text-sm">
-              © {currentYear} Mr Santosh Kumar Joshi. All rights reserved.
+              © {currentYear} PrepZone. All rights reserved.
             </div>
 
             {/* Legal Links */}
